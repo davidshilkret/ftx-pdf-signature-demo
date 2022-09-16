@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://Run npm install -g npm@8.19.2",
+            "request": "launch",
+            "url": "http://Run npm install -g npm@8.19.2"
+        }
+    ]
+}
